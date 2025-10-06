@@ -1,0 +1,5 @@
+{
+  "name": "Plate Generator System",
+  "description": "A responsive web application for configuring and visualizing custom wall plates. Users can add, remove, and resize plates that display a portion of a shared, horizontally-extended image motif. The system provides real-time visual feedback and persists configurations in the browser.",
+  "requestFramePermissions": []
+}
