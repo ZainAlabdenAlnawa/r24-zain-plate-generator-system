@@ -68,7 +68,7 @@ Clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/ZainAlabdenAlnawa/r24-zain-plate-generator-system.git
-cd <r24-zain-plate-generator-system>
+cd r24-zain-plate-generator-system
 npm install
 ```
 
