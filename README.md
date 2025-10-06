@@ -43,13 +43,13 @@ Built with React + Vite, optimized for both desktop and mobile devices.
 
   * If total width > 300 cm, the motif extends seamlessly via horizontal mirroring.
 
-### Bonus Features (if implemented)
+### Extara Features
 
-* [ ] Upload custom motif image.
-* [ ] Export canvas as PNG.
-* [ ] Drag & drop plate reordering.
-* [ ] Toggle between cm/inches.
-* [ ] Animated transitions.
+* Upload custom motif image.
+* Export canvas as PNG.
+* Drag & drop plate reordering.
+* Toggle between cm/inches.
+* Animated transitions.
 
 ---
 
@@ -67,8 +67,8 @@ Built with React + Vite, optimized for both desktop and mobile devices.
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/ZainAlabdenAlnawa/r24-zain-plate-generator-system.git
+cd <r24-zain-plate-generator-system>
 npm install
 ```
 
