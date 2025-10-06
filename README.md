@@ -88,7 +88,7 @@ npm run build
 
 ## Live Demo
 
-Deployed on Vercel: [Demo Link](https://your-demo-url.vercel.app/)
+Deployed on Vercel: [Demo Link](https://r24-pls.netlify.app/)
 
 ---
 
