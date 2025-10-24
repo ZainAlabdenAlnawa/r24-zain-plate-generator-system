@@ -27,7 +27,7 @@ Built with React + Vite, optimized for both desktop and mobile devices.
   * Users can add or remove plates (except the last one).
   * Each plate is individually resizable.
 
-* Dual-Canvas UI**
+* Dual-Canvas UI
 
   * Left panel: realistic visual preview (scales 1 cm = 1 px).
   * Right panel: input controls.
@@ -88,7 +88,7 @@ npm run build
 
 ## Live Demo
 
-Deployed on Vercel: [Demo Link](https://r24-pls.netlify.app/)
+Deployed on Netlify: [Demo Link](https://r24-pls.netlify.app/)
 
 ---
 
